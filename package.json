@@ -1,7 +1,7 @@
 {
   "license": "MIT",
   "devDependencies": {
-    "@tailwindcss/jit": "^0.1.1",
+    "@tailwindcss/jit": "^0.1.18",
     "@vue/compiler-sfc": "^3.0.4",
     "autoprefixer": "^10.1.0",
     "css-loader": "^5.2.4",
