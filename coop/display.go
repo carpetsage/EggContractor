@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"text/tabwriter"
 
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 // Display prints a formatted report about the coop's current status.

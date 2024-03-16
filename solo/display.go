@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/dustin/go-humanize"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 func (c *SoloContract) Display(now time.Time, multiAccountMode bool) {

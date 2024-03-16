@@ -3,7 +3,7 @@ package coop
 import (
 	"sort"
 
-	"github.com/fanaticscripter/EggContractor/api"
+	"github.com/carpetsage/EggContractor/api"
 )
 
 type By func(m1, m2 *api.CoopStatus_Member) bool

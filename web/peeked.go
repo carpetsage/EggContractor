@@ -6,7 +6,7 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"github.com/fanaticscripter/EggContractor/db"
+	"github.com/carpetsage/EggContractor/db"
 )
 
 const _peekedThreshold = 7 * 24 * time.Hour

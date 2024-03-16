@@ -10,7 +10,7 @@ import (
 	reflect "reflect"
 	sync "sync"
 
-	api "github.com/fanaticscripter/EggContractor/api"
+	api "github.com/carpetsage/EggContractor/api"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 )

@@ -10,9 +10,9 @@ import (
 	"github.com/pkg/errors"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/coop"
-	"github.com/fanaticscripter/EggContractor/db"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/coop"
+	"github.com/carpetsage/EggContractor/db"
 )
 
 var _peekedCh chan *db.Peeked

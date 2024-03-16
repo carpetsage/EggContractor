@@ -1,8 +1,8 @@
 package db
 
 import (
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/coop"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/coop"
 )
 
 // Contract is set to nil if no matching contract is found or if there is a

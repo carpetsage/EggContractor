@@ -4,11 +4,11 @@ import (
 	"math"
 	"time"
 
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/artifacts"
-	"github.com/fanaticscripter/EggContractor/contract"
-	"github.com/fanaticscripter/EggContractor/solo/pb"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/artifacts"
+	"github.com/carpetsage/EggContractor/contract"
+	"github.com/carpetsage/EggContractor/solo/pb"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 // Implementation note: unlike a coop status which is largely self-contained in

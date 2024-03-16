@@ -8,9 +8,9 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
-	"github.com/fanaticscripter/EggContractor/config"
-	"github.com/fanaticscripter/EggContractor/coop"
-	"github.com/fanaticscripter/EggContractor/db"
+	"github.com/carpetsage/EggContractor/config"
+	"github.com/carpetsage/EggContractor/coop"
+	"github.com/carpetsage/EggContractor/db"
 )
 
 type sortBy struct {

@@ -14,7 +14,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/fanaticscripter/EggContractor/api"
+	"github.com/carpetsage/EggContractor/api"
 )
 
 const _schemaVersion = 6

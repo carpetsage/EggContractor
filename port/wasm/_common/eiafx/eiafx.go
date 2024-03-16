@@ -6,7 +6,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/fanaticscripter/EggContractor/api"
+	"github.com/carpetsage/EggContractor/api"
 )
 
 //go:embed eiafx-data.json

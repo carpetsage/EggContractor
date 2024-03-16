@@ -9,8 +9,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 func dumpContractDBToCSV(csvpath string) {

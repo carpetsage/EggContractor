@@ -10,7 +10,7 @@ import (
 	"google.golang.org/protobuf/encoding/protojson"
 	"google.golang.org/protobuf/testing/protocmp"
 
-	"github.com/fanaticscripter/EggContractor/api"
+	"github.com/carpetsage/EggContractor/api"
 )
 
 const (

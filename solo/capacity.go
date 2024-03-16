@@ -1,7 +1,7 @@
 package solo
 
 import (
-	"github.com/fanaticscripter/EggContractor/api"
+	"github.com/carpetsage/EggContractor/api"
 )
 
 type shippingCapacityResearch struct {

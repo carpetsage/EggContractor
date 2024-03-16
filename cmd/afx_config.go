@@ -6,8 +6,8 @@ import (
 	"github.com/spf13/cobra"
 	"google.golang.org/protobuf/encoding/protojson"
 
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 var _afxConfigCommand = &cobra.Command{

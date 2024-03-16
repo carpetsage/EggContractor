@@ -1,6 +1,6 @@
 package solo
 
-import "github.com/fanaticscripter/EggContractor/api"
+import "github.com/carpetsage/EggContractor/api"
 
 type layingRateResearch struct {
 	Id        string

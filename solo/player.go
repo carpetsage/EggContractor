@@ -3,7 +3,7 @@ package solo
 import (
 	"math"
 
-	"github.com/fanaticscripter/EggContractor/api"
+	"github.com/carpetsage/EggContractor/api"
 )
 
 type Player struct {

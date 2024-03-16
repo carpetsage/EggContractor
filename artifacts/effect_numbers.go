@@ -2,7 +2,7 @@
 
 package artifacts
 
-import "github.com/fanaticscripter/EggContractor/api"
+import "github.com/carpetsage/EggContractor/api"
 
 var _effectDeltas = map[item]float64{
 	{

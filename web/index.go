@@ -10,11 +10,11 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"github.com/fanaticscripter/EggContractor/contract"
-	"github.com/fanaticscripter/EggContractor/coop"
-	"github.com/fanaticscripter/EggContractor/db"
-	"github.com/fanaticscripter/EggContractor/solo"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/contract"
+	"github.com/carpetsage/EggContractor/coop"
+	"github.com/carpetsage/EggContractor/db"
+	"github.com/carpetsage/EggContractor/solo"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 type indexPayload struct {
@@ -91,7 +91,7 @@ func getIndexPayload(byThisTime time.Time, contractFilter string, hideSolos bool
 	if _configDeprecations.HasLegacyPlayerField {
 		warnings = append(warnings, template.HTML(`Config key <code>player</code> has been deprecated
 		in favor of <code>players</code> since the introduction of multi-account support. See
-		<a href="https://github.com/fanaticscripter/EggContractor/wiki/Multi-account-migration" target="_blank" class="text-blue-500 hover:text-blue-400">this guide</a>
+		<a href="https://github.com/carpetsage/EggContractor/wiki/Multi-account-migration" target="_blank" class="text-blue-500 hover:text-blue-400">this guide</a>
 		for how to migrate and take advantage of new features.`))
 	}
 	if timestamp.IsZero() {

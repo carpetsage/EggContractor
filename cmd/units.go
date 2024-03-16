@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 var _unitsCommand = &cobra.Command{

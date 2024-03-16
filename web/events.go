@@ -5,7 +5,7 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"github.com/fanaticscripter/EggContractor/db"
+	"github.com/carpetsage/EggContractor/db"
 )
 
 type eventsPayload struct {

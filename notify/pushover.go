@@ -9,7 +9,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/fanaticscripter/EggContractor/config"
+	"github.com/carpetsage/EggContractor/config"
 )
 
 type PushoverSound string

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/fanaticscripter/EggContractor/db"
+	"github.com/carpetsage/EggContractor/db"
 	"github.com/pkg/errors"
 	"github.com/spf13/cobra"
 	"golang.org/x/net/context"

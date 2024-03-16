@@ -16,9 +16,9 @@ import (
 	log "github.com/sirupsen/logrus"
 
 	"github.com/dustin/go-humanize"
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/config"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/config"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 var (

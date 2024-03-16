@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fanaticscripter/EggContractor/coop"
+	"github.com/carpetsage/EggContractor/coop"
 )
 
 type Peeked struct {

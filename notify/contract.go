@@ -6,8 +6,8 @@ import (
 	"html/template"
 	"time"
 
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 const _contractMessageTextTmpl = `

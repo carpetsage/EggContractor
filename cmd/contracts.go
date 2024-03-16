@@ -6,8 +6,8 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
-	"github.com/fanaticscripter/EggContractor/db"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/db"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 var _contractsCommand = &cobra.Command{

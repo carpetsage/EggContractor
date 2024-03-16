@@ -6,7 +6,7 @@ import (
 
 	log "github.com/sirupsen/logrus"
 
-	"github.com/fanaticscripter/EggContractor/config"
+	"github.com/carpetsage/EggContractor/config"
 )
 
 type Notifier interface {

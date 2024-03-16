@@ -3,7 +3,7 @@ package solo
 import (
 	"google.golang.org/protobuf/proto"
 
-	"github.com/fanaticscripter/EggContractor/solo/pb"
+	"github.com/carpetsage/EggContractor/solo/pb"
 )
 
 func (c *SoloContract) Marshal() ([]byte, error) {

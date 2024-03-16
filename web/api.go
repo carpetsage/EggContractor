@@ -6,8 +6,8 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"github.com/fanaticscripter/EggContractor/db"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/db"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 type event struct {

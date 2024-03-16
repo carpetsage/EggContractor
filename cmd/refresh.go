@@ -10,13 +10,13 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/config"
-	"github.com/fanaticscripter/EggContractor/coop"
-	"github.com/fanaticscripter/EggContractor/db"
-	"github.com/fanaticscripter/EggContractor/notify"
-	"github.com/fanaticscripter/EggContractor/solo"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/config"
+	"github.com/carpetsage/EggContractor/coop"
+	"github.com/carpetsage/EggContractor/db"
+	"github.com/carpetsage/EggContractor/notify"
+	"github.com/carpetsage/EggContractor/solo"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 var _notifications chan notify.Notification

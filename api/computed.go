@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 // It is said that elite contract is unlocked at 10T% EB.
@@ -120,7 +120,7 @@ func (c *CoopStatus) IsElite() bool {
 		return c.EggContractorLeague == 1
 	}
 	// See
-	// https://github.com/fanaticscripter/Egg/blob/58c68ebd66c6b5ffd70fa33373bbabec6fc0e462/eicoop/src/lib/coop.ts#L101-L143
+	// https://github.com/carpetsage/Egg/blob/58c68ebd66c6b5ffd70fa33373bbabec6fc0e462/eicoop/src/lib/coop.ts#L101-L143
 	// for a more reliable detection algorithm. Can't be bothered to implement
 	// it here though.
 	var belowThresholdCnt, aboveThresholdCnt uint

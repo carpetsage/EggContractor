@@ -8,10 +8,10 @@ import (
 	"github.com/pkg/errors"
 	"google.golang.org/protobuf/proto"
 
-	"github.com/fanaticscripter/EggContractor/api"
-	"github.com/fanaticscripter/EggContractor/coop"
-	"github.com/fanaticscripter/EggContractor/solo"
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/api"
+	"github.com/carpetsage/EggContractor/coop"
+	"github.com/carpetsage/EggContractor/solo"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 // ContractSignature is used to determine contract uniqueness.

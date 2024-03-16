@@ -3,7 +3,7 @@ package pb
 import (
 	"time"
 
-	"github.com/fanaticscripter/EggContractor/util"
+	"github.com/carpetsage/EggContractor/util"
 )
 
 func (c *SoloContract) GetDurationUntilProductionDeadline() time.Duration {
