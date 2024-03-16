@@ -3,7 +3,7 @@ module github.com/carpetsage/EggContractor
 go 1.22
 
 require (
-	github.com/dustin/go-humanize v1.0.0
+	github.com/dustin/go-humanize v1.0.1
 	github.com/fanaticscripter/EggContractor v0.0.0-20230901162103-3445bf9dd81a
 	github.com/gofrs/flock v0.8.1
 	github.com/golang-migrate/migrate/v4 v4.15.0
