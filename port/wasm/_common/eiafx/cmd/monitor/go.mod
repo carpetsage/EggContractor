@@ -9,5 +9,5 @@ require (
 	github.com/google/go-cmp v0.5.6
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/pflag v1.0.5
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0
 )
