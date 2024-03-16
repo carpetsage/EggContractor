@@ -3,7 +3,7 @@ package main
 import (
 	log "github.com/sirupsen/logrus"
 
-	"github.com/fanaticscripter/EggContractor/cmd"
+	"github.com/carpetsage/EggContractor/cmd"
 )
 
 func init() {

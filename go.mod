@@ -1,6 +1,6 @@
-module github.com/fanaticscripter/EggContractor
+module github.com/carpetsage/EggContractor
 
-go 1.16
+go 1.21
 
 require (
 	github.com/dustin/go-humanize v1.0.0
