@@ -6,9 +6,9 @@ require (
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fanaticscripter/EggContractor v0.0.0-20230901162103-3445bf9dd81a
 	github.com/gofrs/flock v0.8.1
-	github.com/golang-migrate/migrate/v4 v4.15.0
+	github.com/golang-migrate/migrate/v4 v4.17.0
 	github.com/labstack/echo/v4 v4.9.0
-	github.com/mattn/go-sqlite3 v1.14.8
+	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.2.1
