@@ -9,7 +9,7 @@
     "postcss": "^8.4.33",
     "postcss-cli": "^8.3.1",
     "postcss-hash": "^2.0.0",
-    "postcss-import": "^14.0.0",
+    "postcss-import": "^16.0.1",
     "prettier": "^2.2.1",
     "protobufjs": "^7.2.6",
     "style-loader": "^2.0.0",
