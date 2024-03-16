@@ -4,7 +4,6 @@ go 1.22
 
 require (
 	github.com/dustin/go-humanize v1.0.1
-	github.com/fanaticscripter/EggContractor v0.0.0-20230901162103-3445bf9dd81a
 	github.com/gofrs/flock v0.8.1
 	github.com/golang-migrate/migrate/v4 v4.17.0
 	github.com/labstack/echo/v4 v4.9.0

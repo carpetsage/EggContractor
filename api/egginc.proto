@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/fanaticscripter/EggContractor/api";
+option go_package = "github.com/carpetsage/EggContractor/api";
 
 message AuthenticatedMessage {
   bytes message = 1;

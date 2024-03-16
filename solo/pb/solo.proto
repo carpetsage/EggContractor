@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "github.com/fanaticscripter/EggContractor/solo/pb";
+option go_package = "github.com/carpetsage/EggContractor/solo/pb";
 
 import "api/egginc.proto";
 
