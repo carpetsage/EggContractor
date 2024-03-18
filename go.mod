@@ -7,7 +7,7 @@ require (
 	github.com/gofrs/flock v0.8.1
 	github.com/golang-migrate/migrate/v4 v4.17.0
 	github.com/labstack/echo/v4 v4.9.0
-	github.com/mattn/go-sqlite3 v1.14.16
+	github.com/mattn/go-sqlite3 v1.14.22
 	github.com/pkg/errors v0.9.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.0
