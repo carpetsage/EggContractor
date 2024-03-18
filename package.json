@@ -33,6 +33,6 @@
     "vue": "^3.0.4",
     "vue-echarts": "^6.0.0-rc.3",
     "vue-router": "^4.0.3",
-    "vue-tippy": "^6.0.0-alpha.24"
+    "vue-tippy": "^6.0.0-alpha.58"
   }
 }
